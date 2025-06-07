@@ -1,0 +1,95 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 642.76px;
+height: 969px;
+left: 68px;
+top: 27px;
+
+background: #E9E9E9;
+border-radius: 87.3848px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 642.76px;
+height: 969px;
+left: 728.24px;
+top: 27px;
+
+background: #E9E9E9;
+border-radius: 87.3848px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 1303px;
+height: 0px;
+left: 68px;
+top: 512.47px;
+
+border: 4px solid #FFFFFF;
+
+
+/* 12 */
+
+position: absolute;
+width: 466px;
+height: 316px;
+left: 155.38px;
+top: 353.24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 434.982px;
+line-height: 526px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 34 */
+
+position: absolute;
+width: 557px;
+height: 316px;
+left: 770.96px;
+top: 353.24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 434.982px;
+line-height: 526px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
